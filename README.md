@@ -1,4 +1,4 @@
-# こんにちは (Konnichiwa), I'm Boualem! 👋
+# こんにちは Hi, I'm Boualem! 👋
 
 But you can call me **Shini**.
 
