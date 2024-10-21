@@ -1,10 +1,12 @@
-# Hi there, I'm Boualem! 👋
+# こんにちは (Konnichiwa), I'm Boualem! 👋
 
 But you can call me **Shini**.
 
 ## 🎓 Student at 42 Luxembourg
 
 My curiosity led me into the world of development through Discord and `discord.js 12`. Since then, I've been passionate about coding and always eager to learn new things.
+
+## 🥷 "Coding is my ninja way!"
 
 ## 💻 Languages and Technologies
 
@@ -19,26 +21,27 @@ My curiosity led me into the world of development through Discord and `discord.j
 
 ## 🎵 Hobbies
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/musical-notes.png" alt="Music" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/controller.png" alt="Gaming" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Connecting with people" width="40" height="40"/>
-</p>
+- 🎶 **Music**
+- 🎮 **Gaming**
+- 💬 **Connecting with people**
+
+> _"In the vast world of code, I aim to be as limitless as the anime universe!"_ ✨
 
 ## 📫 How to Reach Me
 
 <p align="left">
   <a href="https://github.com/MadaniBoualem" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:contact@madaniboualem.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1046558861701677126" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
+
