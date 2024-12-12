@@ -43,5 +43,7 @@ My curiosity led me into the world of development through Discord and `discord.j
   </a>
 </p>
 
+
+### [Gpochon, ou l’art du foutage de gueule](https://github.com/gabrielle-pch)
 ---
 
